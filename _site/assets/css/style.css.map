@@ -3,12 +3,12 @@
 	"file": "style.css",
 	"sources": [
 		"style.scss",
-		"../../../../private/var/folders/l8/x0q45xrn1rb8m9rv0p6fg5jr0000gn/T/jekyll-remote-theme-20220618-77817-1rqsaed/_sass/minima/skins/classic.scss",
-		"../../../../private/var/folders/l8/x0q45xrn1rb8m9rv0p6fg5jr0000gn/T/jekyll-remote-theme-20220618-77817-1rqsaed/_sass/minima/initialize.scss",
-		"../../../../private/var/folders/l8/x0q45xrn1rb8m9rv0p6fg5jr0000gn/T/jekyll-remote-theme-20220618-77817-1rqsaed/_sass/minima/custom-variables.scss",
-		"../../../../private/var/folders/l8/x0q45xrn1rb8m9rv0p6fg5jr0000gn/T/jekyll-remote-theme-20220618-77817-1rqsaed/_sass/minima/_base.scss",
-		"../../../../private/var/folders/l8/x0q45xrn1rb8m9rv0p6fg5jr0000gn/T/jekyll-remote-theme-20220618-77817-1rqsaed/_sass/minima/_layout.scss",
-		"../../../../private/var/folders/l8/x0q45xrn1rb8m9rv0p6fg5jr0000gn/T/jekyll-remote-theme-20220618-77817-1rqsaed/_sass/minima/custom-styles.scss"
+		"../../../../private/var/folders/l8/x0q45xrn1rb8m9rv0p6fg5jr0000gn/T/jekyll-remote-theme-20220619-88808-hbj3p0/_sass/minima/skins/classic.scss",
+		"../../../../private/var/folders/l8/x0q45xrn1rb8m9rv0p6fg5jr0000gn/T/jekyll-remote-theme-20220619-88808-hbj3p0/_sass/minima/initialize.scss",
+		"../../../../private/var/folders/l8/x0q45xrn1rb8m9rv0p6fg5jr0000gn/T/jekyll-remote-theme-20220619-88808-hbj3p0/_sass/minima/custom-variables.scss",
+		"../../../../private/var/folders/l8/x0q45xrn1rb8m9rv0p6fg5jr0000gn/T/jekyll-remote-theme-20220619-88808-hbj3p0/_sass/minima/_base.scss",
+		"../../../../private/var/folders/l8/x0q45xrn1rb8m9rv0p6fg5jr0000gn/T/jekyll-remote-theme-20220619-88808-hbj3p0/_sass/minima/_layout.scss",
+		"../../../../private/var/folders/l8/x0q45xrn1rb8m9rv0p6fg5jr0000gn/T/jekyll-remote-theme-20220619-88808-hbj3p0/_sass/minima/custom-styles.scss"
 	],
 	"sourcesContent": [
 		"@import\n  \"minima/skins/classic\",\n  \"minima/initialize\";\n",

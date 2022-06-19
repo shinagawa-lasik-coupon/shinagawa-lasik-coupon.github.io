@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   品川近視クリニックのクーポンを発行するサイトです。クーポンを持っているかどうかで最大7万円も差がでてくる
   ため、是非みなさんに使ってほしいと思いサイトを立ち上げました。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shinagawa-lasik-coupon.jp/"
 google_analytics: G-RPCMJM0FZC
 
 minima:

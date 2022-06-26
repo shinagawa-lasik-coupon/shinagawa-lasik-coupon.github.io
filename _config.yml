@@ -21,7 +21,7 @@
 title: 品川近視クリニックのクーポン発行サイト
 email: shinagawa.lasik.coupon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  品川近視クリニックのクーポンを発行するサイトです。クーポンを持っているかどうかで最大7万円も差がでてくる
+  品川近視クリニックのクーポンを発行するサイトです。クーポンを持っているかどうかで最大5万円も差がでてくる
   ため、是非みなさんに使ってほしいと思いサイトを立ち上げました。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shinagawa-lasik-coupon.jp/"
